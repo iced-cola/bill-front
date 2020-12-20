@@ -1,7 +1,3 @@
-# bill-front
-
-> bill front end
-
 ## Build Setup
 
 ``` bash
